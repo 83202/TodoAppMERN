@@ -7,7 +7,6 @@ This is a simple TODO application that allows users to create, update, and delet
 - Add new tasks
 - Update existing tasks
 - Delete tasks
-- View a list of all tasks
 
 ## Technologies Used
 - **Frontend:**
@@ -19,9 +18,9 @@ This is a simple TODO application that allows users to create, update, and delet
 - **Backend:**
   - [Node.js](https://nodejs.org/)
   - [Express.js](https://expressjs.com/)
-  - [MongoDB](https://www.mongodb.com/) (or any other database you are using)
+  - [MongoDB](https://www.mongodb.com/) 
   
 - **Development Tools:**
   - [npm](https://www.npmjs.com/)
-  - [Visual Studio Code](https://code.visualstudio.com/) (or your preferred IDE)
+  - [Visual Studio Code](https://code.visualstudio.com/)
   - [Postman](https://www.postman.com/) for API testing
